@@ -1,0 +1,3 @@
+git+https://github.com/huggingface/transformers.git
+accelerate
+torch==2.0.1
